@@ -11,11 +11,7 @@ QCNNs utilize quantum mechanical principles like **superposition** and **entangl
 We thoroughly examine these denoising strategies to identify the most effective method for noise elimination. Through comprehensive analysis and meticulous experimentation, we investigate the unexplored potential of QCNNs in signal classification tasks, thereby contributing to the advancement of techniques in gravitational wave detection.  
 
 ---
-
 ## 📂 Repository Structure
-Exploring-QCNN/
-│
-├── src/ # Jupyter notebooks and code
-├── Documents/ # Contain project report
-├── DATASET.md # Instructions and Kaggle dataset link
-└── README.md # Project overview
+
+
+
